@@ -10,6 +10,9 @@ sub()
 {
 printf("sub of a and b-d",sub)
 }
-null()
+mult()
+{
+printf("a*b")
+}
 div()
 }
