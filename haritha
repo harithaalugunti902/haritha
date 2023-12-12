@@ -7,6 +7,8 @@ add()
 Print("addition od a and b-d",sum)
 }
 sub()
-null()
+mult()
+{
+printf("a*b")
 div()
 }
