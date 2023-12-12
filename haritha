@@ -4,9 +4,12 @@ main()
 {
 add()
 {
-Print("addition od a and b-d",sum)
+Print("addition of a and b+d",sum)
 }
 sub()
+{
+printf("sub of a and b-d",sub)
+}
 null()
 div()
 }
