@@ -4,7 +4,7 @@ main()
 {
 add()
 {
-Print("addition of a and b+d",sum)
+Printf("addition of a and b+d",sum)
 }
 sub()
 {
@@ -15,4 +15,7 @@ mult()
 printf("a*b")
 }
 div()
+{
+printf("a/b")
+}
 }
